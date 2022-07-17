@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+div {
+    display: inline-block;
+    width: calc(33.33% - 19px);
+    margin: 0.5em;
+}
+
+body {
+    clear: both;
+    background-color: black;
+    margin: 0;
+    width: 100vw;
+}
+
+main {
+    width: 100vw;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
