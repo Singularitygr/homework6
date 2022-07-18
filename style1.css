@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-div {
+.block {
     float: left;
     margin: 0.5em;
     width: calc(33.33% - 1em);
